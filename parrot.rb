@@ -1,2 +1,2 @@
 def#parrot
-parrot="Squawk!"l
+parrot="Squawk!"
